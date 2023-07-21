@@ -2,6 +2,8 @@
 
 > Status: Em desenvolvimento
 
+Para rodar esse projeto, por favor digite:
+
 ```
-Testes em andamento
+node app.js
 ```
